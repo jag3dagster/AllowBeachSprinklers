@@ -14,7 +14,9 @@ This mod programmatically removes the restriction of not being able to place / u
 
 
 ### Compatibility
-* There are no known incompatibilities
+* Compatible with...
+	- Stardew Valley 1.5 or later;
+* No known mod conflicts
 	- If you find one please feel free to notify me here or on the [Nexus Mod](https://www.nexusmods.com/stardewvalley/mods/7629) site
 
 ### Limitations
