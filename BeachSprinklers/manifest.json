@@ -6,5 +6,5 @@
   "UniqueID": "Jag3Dagster.AllowBeachSprinklers",
   "EntryDll": "AllowBeachSprinklers.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:7629" ]
+  "UpdateKeys": [ "Nexus:7629", "GitHub:jag3dagster/AllowBeachSprinklers" ]
 }
