@@ -9,7 +9,7 @@ This mod programmatically removes the restriction of not being able to place / u
 1. Install the latest version of [SMAPI](https://smapi.io)
 	1. [Nexus Mirror](https://www.nexusmods.com/stardewvalley/mods/2400)
 	2. [GitHub Mirror](https://github.com/Pathoschild/SMAPI/releases)
-2. Install this mod
+2. Install this mod by unzipping the mod folder into 'Stardew Valley/Mods'
 3. Launch the game using SMAPI
 
 
