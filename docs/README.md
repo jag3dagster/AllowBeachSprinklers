@@ -5,14 +5,6 @@
 This mod programmatically removes the restriction of not being able to place / use sprinklers on the Beach Farm tiles.
 * This mod works for both existing and newly created Beach Farms
 
-### Install
-1. Install the latest version of [SMAPI](https://smapi.io)
-	1. [Nexus Mirror](https://www.nexusmods.com/stardewvalley/mods/2400)
-	2. [GitHub Mirror](https://github.com/Pathoschild/SMAPI/releases)
-2. Install this mod by unzipping the mod folder into 'Stardew Valley/Mods'
-3. Launch the game using SMAPI
-
-
 ### Compatibility
 * Compatible with...
 	- Stardew Valley 1.5 or later
@@ -29,6 +21,13 @@ This mod programmatically removes the restriction of not being able to place / u
 ### Solo + Multiplayer
 * Players will need to keep this this mod installed for sprinklers to continue to water adjacent tiles as expected
 	- If mod is uninstalled, placed sprinklers will reamin and animations will continue to run, however, the expected adjacent tiles will not be considered 'watered'
+	
+### Install
+1. Install the latest version of [SMAPI](https://smapi.io)
+	1. [Nexus Mirror](https://www.nexusmods.com/stardewvalley/mods/2400)
+	2. [GitHub Mirror](https://github.com/Pathoschild/SMAPI/releases)
+2. Install this mod by unzipping the mod folder into 'Stardew Valley/Mods'
+3. Launch the game using SMAPI
 
 ## Releases
 Releases can be found [here on GitHub](https://github.com/jag3dagster/AllowBeachSprinklers/releases) and on the [Nexus Mod](https://www.nexusmods.com/stardewvalley/mods/7629) site.
