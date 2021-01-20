@@ -32,7 +32,6 @@ This mod programmatically removes the restriction of not being able to place / u
 
 ## Releases
 Releases can be found [here on GitHub](https://github.com/jag3dagster/AllowBeachSprinklers/releases) and on the [Nexus Mod](https://www.nexusmods.com/stardewvalley/mods/7629) site.
-
 ### 1.0.0
 * Initial release
 * Allows players to place sprinlers on Beach farms
