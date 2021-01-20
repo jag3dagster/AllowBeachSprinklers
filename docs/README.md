@@ -20,7 +20,7 @@ This mod programmatically removes the restriction of not being able to place / u
 
 ### Solo + Multiplayer
 * Players will need to keep this this mod installed for sprinklers to continue to water adjacent tiles as expected
-	- If mod is uninstalled, placed sprinklers will reamin and animations will continue to run, however, the expected adjacent tiles will not be considered 'watered'
+	- If mod is uninstalled, placed sprinklers will remain and animations will continue to run, however, the expected adjacent tiles will not be considered 'watered'
 	
 ### Install
 1. Install the latest version of [SMAPI](https://smapi.io)
