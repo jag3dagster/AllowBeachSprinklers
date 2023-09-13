@@ -33,7 +33,7 @@ namespace AllowBeachSprinklers
 
 			foreach (var tile in noSprinklerTiles)
 			{
-				tile.Properties[NO_SPRINKLERS_KEY] = "false";
+				tile.TileIndexProperties[NO_SPRINKLERS_KEY] = false;
 			}
 
 			Monitor.Log("Sprinklers can now be placed in sand on your farm.", LogLevel.Info);
