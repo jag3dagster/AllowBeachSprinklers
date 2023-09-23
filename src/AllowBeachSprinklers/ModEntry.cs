@@ -16,10 +16,12 @@ namespace AllowBeachSprinklers
 
 		public override void Entry(IModHelper helper)
 		{
+			I18n.Init(helper.Translation);
+
 			helper.Events.GameLoop.SaveLoaded += OnSaveLoaded;
 		}
 
-		private void OnSaveLoaded(object sender, SaveLoadedEventArgs e)
+		private void OnSaveLoaded(object? sender, SaveLoadedEventArgs e)
 		{
 			if (Game1.whichFarm != BeachFarm) return;
 
@@ -36,7 +38,7 @@ namespace AllowBeachSprinklers
 				tile.TileIndexProperties[NoSprinklersKey] = false;
 			}
 
-			Monitor.Log("Sprinklers can now be placed in sand on your farm.", LogLevel.Info);
+			Monitor.Log(I18n.Log_SprinklersAllowed(), LogLevel.Info);
 		}
 	}
 }

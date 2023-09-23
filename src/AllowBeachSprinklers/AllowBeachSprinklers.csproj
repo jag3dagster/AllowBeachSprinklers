@@ -1,10 +1,28 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <AssemblyName>AllowBeachSprinklers</AssemblyName>
+    <BaseManifest>new</BaseManifest>
+
+    <UniqueId>Jag3Dagster.AllowBeachSprinklers</UniqueId>
+    <Name>AllowBeachSprinkler</Name>
+    <Authors>Jag3Dagster</Authors>
+    <Description>Allow the placement and usage of sprinklers on the Beach Farm map.</Description>
+    <Version>1.1.0</Version>
+    <UpdateKeys>Nexus:7629;github:jag3dagster/AllowBeachSprinklers</UpdateKeys>
+    <MinimumApiVersion>auto</MinimumApiVersion>
+
+    <MinimumApiVersion_Behavior>Update</MinimumApiVersion_Behavior>
+    <Dependencies_AlowsIncludeRequire>true</Dependencies_AlowsIncludeRequire>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Version>1.0.0</Version>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Leclair.Stardew.ModManifestBuilder" Version="2.1.0" />
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
+    <PackageReference Include="Pathoschild.Stardew.ModTranslationClassBuilder" Version="2.0.1" />
   </ItemGroup>
 </Project>

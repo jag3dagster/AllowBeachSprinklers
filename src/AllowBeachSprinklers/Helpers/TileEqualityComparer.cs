@@ -5,11 +5,11 @@ namespace AllowBeachSprinklers.Helpers
 {
 	internal class TileEqualityComparer : IEqualityComparer<Tile>
 	{
-		public bool Equals(Tile x, Tile y)
+		public bool Equals(Tile? x, Tile? y)
 		{
-			if (ReferenceEquals(x, y)) return true;
 			if (x is null) return false;
 			if (y is null) return false;
+			if (ReferenceEquals(x, y)) return true;
 			if (x.GetType() != y.GetType()) return false;
 
 			return Equals(x.TileSheet, y.TileSheet) && x.TileIndex == y.TileIndex;
