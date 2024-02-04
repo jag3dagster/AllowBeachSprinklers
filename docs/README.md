@@ -1,4 +1,9 @@
-﻿**AllowBeachSprinklers** is an open-source mod for [Stardew Valley](https://stardewvalley.net) that allows players to utilize sprinklers in the Beach farm map that was introduced in version 1.5.
+﻿# MOVED
+
+THIS REPOSITORY HAS MOVED TO https://github.com/Hedgehog-Technologies/StardewMods. ALL FUTURE UPDATES WILL COME FROM THERE. ANY ISSUES MAY BE BROUGHT UP THERE AS WELL. THANK YOU FOR YOUR CONTINUED SUPPORT!
+___
+
+**AllowBeachSprinklers** is an open-source mod for [Stardew Valley](https://stardewvalley.net) that allows players to utilize sprinklers in the Beach farm map that was introduced in version 1.5.
 
 ## Documentation
 ### Overview
